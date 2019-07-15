@@ -15,7 +15,7 @@ HARES平台由Zero Fanker及其HARES工作组制作
 ### Introduction
 #### -*基本介绍*
 - Known Major Issues - 已知的主要问题
-> Save Games - 保存游戏
+   - Save Games - 保存游戏
 ### Required Changes For Mods Using Ares
 #### -*使用Hares的Mod所需的修改*
 - artmd.ini
@@ -89,114 +89,114 @@ HARES平台由Zero Fanker及其HARES工作组制作
 - 类别选择组 - Type Selection Groups
 - 单位被毁的独立EVA语音 - Unit Lost EVA Report
 - **国家与阵营** - Sides & Countries
- - 阵营 - Sides
- - 国家 - Countries
+   - 阵营 - Sides
+   - 国家 - Countries
 - **建筑物** - Buildings
- - 训练所 - Academies
- - 突击者 - Assaulter
- - 自定义建筑面积 - Custom Building Foundations
- - 隐藏维修扳手 - EnemyWrench
- - 指定工厂&克隆工厂 - Factories and Cloning
- - 力场护盾的微观效果 - ForceShield
- - 闸门 - GateDown
- - 避雷针 - Lightning Rods
- - 可通行构造 - IsPassable
- - 光棱塔递光逻辑 - Prism Forwarding
- - 油井逻辑扩展 - Oil Derricks (ProduceCash)
- - 秘密科技实验室 - Secret Labs
- - 会被建筑阻挡的抛射体 - Solid Buildings
- - 间谍渗透功能强化 - Spy Behavior
- - 中立科技建筑重归属 - Tech Structures Return to Neutral
- - 切换电源 - Toggle Power
- - 建筑微损伤 - Trivial Structure Damage
- - 巷战-战壕 - Urban Combat - Trenches
+   - 训练所 - Academies
+   - 突击者 - Assaulter
+   - 自定义建筑面积 - Custom Building Foundations
+   - 隐藏维修扳手 - EnemyWrench
+   - 指定工厂&克隆工厂 - Factories and Cloning
+   - 力场护盾的微观效果 - ForceShield
+   - 闸门 - GateDown
+   - 避雷针 - Lightning Rods
+   - 可通行构造 - IsPassable
+   - 光棱塔递光逻辑 - Prism Forwarding
+   - 油井逻辑扩展 - Oil Derricks (ProduceCash)
+   - 秘密科技实验室 - Secret Labs
+   - 会被建筑阻挡的抛射体 - Solid Buildings
+   - 间谍渗透功能强化 - Spy Behavior
+   - 中立科技建筑重归属 - Tech Structures Return to Neutral
+   - 切换电源 - Toggle Power
+   - 建筑微损伤 - Trivial Structure Damage
+   - 巷战-战壕 - Urban Combat - Trenches
 - **隐形相关** - Cloak, Stealth and Sensor Arrays
- - 通用内容 - General Changes and Updates
- - 隐形高度 - Cloaking and Units Above Ground
- - 隐形声音 - Cloak Sounds
- - 隐形阶段 - Cloaking Stages
- - 隐形条件控制 - Cloak Depending On State
- - 反隐形 - Sensor Arrays
+   - 通用内容 - General Changes and Updates
+   - 隐形高度 - Cloaking and Units Above Ground
+   - 隐形声音 - Cloak Sounds
+   - 隐形阶段 - Cloaking Stages
+   - 隐形条件控制 - Cloak Depending On State
+   - 反隐形 - Sensor Arrays
 - **抛射体** - Projectiles
- - 多方向抛射体动画化 - Animations and Rotates=yes
- - 弹道分布 - BallisticScatter
- - 有效追击范围 - Ranged
- - 分裂和空爆 - Splits and Airburst
+   - 多方向抛射体动画化 - Animations and Rotates=yes
+   - 弹道分布 - BallisticScatter
+   - 有效追击范围 - Ranged
+   - 分裂和空爆 - Splits and Airburst
 - **武器** - Weapons
- - [WeaponTypes]注册表 - [WeaponTypes] Section
- - 多面数开火动画 - Anim for Facings
- - 声波武器和喷火武器正常伤害 - Ordinary Damage for IsSonic and UseFireParticles
- - 自定义伊文炸弹 - Ivan Bombs
- - 自定义辐射波 - Radiation Beams
- - 自定义特斯拉 - Electric Bolt Coloring
- - 波逻辑 - Waves
- - 粗极光 - LaserThickness
- - 动画关联武器 - ProjectileRange
+   - [WeaponTypes]注册表 - [WeaponTypes] Section
+   - 多面数开火动画 - Anim for Facings
+   - 声波武器和喷火武器正常伤害 - Ordinary Damage for IsSonic and UseFireParticles
+   - 自定义伊文炸弹 - Ivan Bombs
+   - 自定义辐射波 - Radiation Beams
+   - 自定义特斯拉 - Electric Bolt Coloring
+   - 波逻辑 - Waves
+   - 粗极光 - LaserThickness
+   - 动画关联武器 - ProjectileRange
 - **弹头** - Warheads
- - 通用特殊效果 - General Settings
- - 溅射范围 - CellSpread Enhancements
- - 铁幕弹头 - Iron Curtain Effect
- - 永久心灵控制 - Permanent Mind-Control
- - 自定义空间武器弹头死亡动画 - Customizable WarpAway
- - 环状波纹 - Ion Cannon Ripple Effect
- - 缓冲动画 - PreImpactAnim
- - 部署步兵受伤百分比和新增死亡动画 - Infantry-related Settings
- - 狂怒状态的攻击速度 - Berserk Reloading Time Modifier
- - 不触发死亡武器弹头 - Suppress Death Weapons
- - 立体爆炸弹头X
- - 机械与生物弹头X
+   - 通用特殊效果 - General Settings
+   - 溅射范围 - CellSpread Enhancements
+   - 铁幕弹头 - Iron Curtain Effect
+   - 永久心灵控制 - Permanent Mind-Control
+   - 自定义空间武器弹头死亡动画 - Customizable WarpAway
+   - 环状波纹 - Ion Cannon Ripple Effect
+   - 缓冲动画 - PreImpactAnim
+   - 部署步兵受伤百分比和新增死亡动画 - Infantry-related Settings
+   - 狂怒状态的攻击速度 - Berserk Reloading Time Modifier
+   - 不触发死亡武器弹头 - Suppress Death Weapons
+   - 立体爆炸弹头X
+   - 机械与生物弹头X
 - **超级武器** - Super Weapons
- - 通用设置 - General properties
- - ====原有====
- - 闪电风暴
- - 核弹打击
- - 心灵支配
- - 超时空传送
- - 铁幕&立场护盾
- - 基因突变
- - 空降部队
- - 侦察机
- - 心灵感测
- - ====新增====
- - 超声波
- - 通用弹头
- - 单位投放
- - 火风暴
- - 狩猎者
- - 空降仓
- - 电磁脉冲
+   - 通用设置 - General properties
+   - ====原有====
+   - 闪电风暴
+   - 核弹打击
+   - 心灵支配
+   - 超时空传送
+   - 铁幕&立场护盾
+   - 基因突变
+   - 空降部队
+   - 侦察机
+   - 心灵感测
+   - ====新增====
+   - 超声波
+   - 通用弹头
+   - 单位投放
+   - 火风暴
+   - 狩猎者
+   - 空降仓
+   - 电磁脉冲
 - **泰伯利亚功能**Tiberium
- - 储藏和矿井 - Storage and Silos
- - 泰伯利亚泄露 - Tiberium Spill
- - 泰伯利亚治愈 - Tiberium Heal
- - 泰伯利亚残留 - Tiberium Remains
- - 泰伯利亚伤害 - Tiberium Damage
- - 器官兽 - Visceroids
- - 泰伯利亚爆炸 - Tiberium Explosive
- - 连锁反应 - Chain Reactions
+   - 储藏和矿井 - Storage and Silos
+   - 泰伯利亚泄露 - Tiberium Spill
+   - 泰伯利亚治愈 - Tiberium Heal
+   - 泰伯利亚残留 - Tiberium Remains
+   - 泰伯利亚伤害 - Tiberium Damage
+   - 器官兽 - Visceroids
+   - 泰伯利亚爆炸 - Tiberium Explosive
+   - 连锁反应 - Chain Reactions
 - **其他新增** - Miscellaneous Modding Enhancements
- - 可拆分的规则文件 - [#include]
- - CSF功能增强 - String Table Enhancements
- - 标签长度 - List Lengths
- - MIX载入规则 - MIX Loading Order
- - 分散音频文件 - Loose Audio Files
- - Mouse.sha鼠标指针 - Mouse.sha
- - 可避免的内部错误(IE) - Avoidable Internal Errors
+   - 可拆分的规则文件 - [#include]
+   - CSF功能增强 - String Table Enhancements
+   - 标签长度 - List Lengths
+   - MIX载入规则 - MIX Loading Order
+   - 分散音频文件 - Loose Audio Files
+   - Mouse.sha鼠标指针 - Mouse.sha
+   - 可避免的内部错误(IE) - Avoidable Internal Errors
 - **用户界面功能** User Interface Features
- - 位图截图 - Bitmap Screenshots
- - 战役列表
- - 战役载入界面
- - 命令行参数
- - 自定义战役按钮
- - 可定制的玩家颜色
- - 图形/曲面绘图
- - 内部错误IE/抓虫
- - 快捷键（热键）
- - 载入屏幕
- - 单人遭遇战
- - 菜单自定义
- - MOD信息
- - 分辨率
- - 随机地图生成器
- - 开发游戏标签
- - 用户界面颜色
+   - 位图截图 - Bitmap Screenshots
+   - 战役列表
+   - 战役载入界面
+   - 命令行参数
+   - 自定义战役按钮
+   - 可定制的玩家颜色
+   - 图形/曲面绘图
+   - 内部错误IE/抓虫
+   - 快捷键（热键）
+   - 载入屏幕
+   - 单人遭遇战
+   - 菜单自定义
+   - MOD信息
+   - 分辨率
+   - 随机地图生成器
+   - 开发游戏标签
+   - 用户界面颜色
