@@ -32,7 +32,7 @@ HARES平台由Zero Fanker及其HARES工作组制作
 - Multi Engineer - 多位工程师
 - Spotlights - 聚光/探照灯
 - Vehicle Thief - 窃车
-# New & Enhanced In-Game Logic - 新增的逻辑内容
+## New & Enhanced In-Game Logic - 新增的逻辑内容
 - 新增护甲以及免疫方案 - Additional ArmorTypes and Verses
 - 飞机损坏尾烟 - Aircraft Smoke
 - 空中动画帧率 - AirRate
