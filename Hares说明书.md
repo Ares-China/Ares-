@@ -21,8 +21,7 @@ HARES平台由Zero Fanker及其HARES工作组制作
 - ares.mix
 ### What’s New and Bug Fixes
 #### -*BUG修复和更新内容*
-# Restored Tiberian Sun Logic
-## 被修复的TS逻辑
+## Restored Tiberian Sun Logic - 被修复的TS逻辑
 - Action=SellUnit - **等待翻译**
 - Amphibious Image Changes - 两栖单位水陆切换不同形态
 - Electromagnetic Pulse (EMP) - 电磁脉冲
@@ -31,8 +30,7 @@ HARES平台由Zero Fanker及其HARES工作组制作
 - Multi Engineer - 多位工程师
 - Spotlights - 聚光/探照灯
 - Vehicle Thief - 窃车
-# New & Enhanced In-Game Logic
-## 新增的逻辑内容
+# New & Enhanced In-Game Logic - 新增的逻辑内容
 - 新增护甲以及免疫方案 - Additional ArmorTypes and Verses
 - 飞机损坏尾烟 - Aircraft Smoke
 - 空中动画帧率 - AirRate
