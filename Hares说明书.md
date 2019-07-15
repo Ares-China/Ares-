@@ -1,5 +1,7 @@
-# Hares Documentation
-## 哈瑞斯使用说明
+Hares Documentation
+============================
+哈瑞斯使用说明
+-------------
 ![Hares](https://i.imgur.com/n5DnMZg.png)
 
 HARES平台由Zero Fanker及其HARES工作组制作
@@ -13,7 +15,7 @@ HARES平台由Zero Fanker及其HARES工作组制作
 ### Introduction
 #### -*基本介绍*
 - Known Major Issues - 已知的主要问题
- - Save Games 保存游戏
+> Save Games - 保存游戏
 ### Required Changes For Mods Using Ares
 #### -*使用Hares的Mod所需的修改*
 - artmd.ini
