@@ -165,7 +165,7 @@ HARES平台由Zero Fanker及其HARES工作组制作
    - 狩猎者
    - 空降仓
    - 电磁脉冲
-- **泰伯利亚功能**Tiberium
+- **泰伯利亚功能** - Tiberium
    - 储藏和矿井 - Storage and Silos
    - 泰伯利亚泄露 - Tiberium Spill
    - 泰伯利亚治愈 - Tiberium Heal
@@ -182,7 +182,7 @@ HARES平台由Zero Fanker及其HARES工作组制作
    - 分散音频文件 - Loose Audio Files
    - Mouse.sha鼠标指针 - Mouse.sha
    - 可避免的内部错误(IE) - Avoidable Internal Errors
-- **用户界面功能** User Interface Features
+- **用户界面功能** - User Interface Features
    - 位图截图 - Bitmap Screenshots
    - 战役列表
    - 战役载入界面
