@@ -50,7 +50,6 @@ HARES平台由Zero Fanker及其HARES工作组制作
 - 自定义获得经验方法 - Customizable Veterancy
 - 自定义导弹 - Custom Missiles
 - 受损粒子系统 - Damage Particle Systems
-- 电磁脉冲摧毁单位 - **缺少原文**
 - 调整失灵单位的光照 - Dimming Deactivated Units
 - 飞碟激光动画 - Disk Laser Animations
 - 泰伯利亚恶魔 - Tiberian Fiends
