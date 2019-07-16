@@ -67,8 +67,8 @@ Hares说明书编写组：Zero Fanker，ChaleB，Xkein，THOmas Sneddon
 - 步兵触电死亡动画 - InfantryElectrocuted
 - 初始载员 - Initial Payload (Troop Crawlers)
 - 击杀驾驶员 - Killing Drivers
-- 基因突变的步兵归属MakeInfantryOwner
-- 新遥控坦克逻辑New Powered Unit Logic
+- 基因突变的步兵归属 - MakeInfantryOwner
+- 新遥控坦克逻辑 - New Powered Unit Logic
 - 泛碾压设置 - OmniCrusher Enhancements
 - 操作者 - Operator
 - 特定乘客类型 - Specific Passengers
