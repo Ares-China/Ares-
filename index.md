@@ -14,12 +14,12 @@ HARES平台由Zero Fanker及其HARES工作组制作
 ### [Introduction 基本介绍](https://github.com/BML-ChaleB/Hares-Instructions/blob/master/introduction.md "基本介绍")
 - Known Major Issues - 已知的主要问题
    - Save Games - 保存游戏
-### Required Changes For Mods Using Ares - 使用Hares的Mod所需的修改
+### [Required Changes For Mods Using Ares - 使用Hares的Mod所需的修改](https://github.com/BML-ChaleB/Hares-Instructions/blob/master/introduction.md)
 - artmd.ini
 - bombcurs.shp
 - ares.mix
 ### What’s New and Bug Fixes - BUG修复和更新内容
-## Restored Tiberian Sun Logic - 被修复的TS逻辑
+## [Restored Tiberian Sun Logic - 被修复的TS逻辑](https://github.com/BML-ChaleB/Hares-Instructions/blob/master/TS.md)
 - Action=SellUnit - **等待翻译**
 - Amphibious Image Changes - 两栖单位水陆切换不同形态
 - Electromagnetic Pulse (EMP) - 电磁脉冲
