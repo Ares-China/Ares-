@@ -23,9 +23,9 @@ Restored Tiberian Sun Logic
 - [聚光灯/探照灯](#聚光灯/探照灯])
 - [窃车贼](#窃车贼)
 
+<div id="Action=SellUnit"></div>
 Action=SellUnit
 ---------------
-<div id="Action=SellUnit"></div>
 
 #### *缺少翻译校对*
 
@@ -37,9 +37,9 @@ Action=SellUnit
 
 >New in version 0.1.
 
+<div id="两栖单位水陆切换不同形态"></div>
 两栖单位水陆切换不同形态
 ---------------------
-<div id="两栖单位水陆切换不同形态"></div>
 
 在泰伯利亚之日中，两栖APC能够在水中变成另外一种形态，它的素材apc.vxl会改变为apcw.vxl
 
@@ -49,31 +49,31 @@ Action=SellUnit
 
 在水中转换为这个单位的素材，参考武装直升机，只是借用壳子,VXL和SHP格式会自动识别，不存在冲突。
 
+<div id="电磁脉冲（EMP）"></div>
 [电磁脉冲（EMP）](http://www.baidu.com)
 -------
-<div id="电磁脉冲（EMP）"></div>
 
 Hares对原Ares的电磁脉冲有额外的更强大的扩展，详情见[电磁脉冲（EMP）](http://www.baidu.com)页面
 
-火风暴墙
--------
 <div id="火风暴墙"></div>
+火风暴墙
+------
 
 Firestorm Wall和相应的超级武器现在可以在尤里的复仇中实现。
 
 详情请查阅[[超级武器]](http://www.baidu.com "超级武器")目录下[[火风暴]](http://www.baidu.com "火风暴")相关词条
 
+<div id="激光围栏"></div>
 激光围栏
 -------
-<div id="激光围栏"></div>
 
 激光栅栏现在能像TS里一样使用. 你需要一个建筑有`LaserFencePost=yes`语句来创建节点（墙柱）, 其他有`LaserFence=yes`语句的建筑之间会以激光连接（具体参考TS）。单位通过就会被摧毁。
 
 > 注意：在当前的Hares版本下，激光围栏在同一MOD中只能存在一套节点和激光墙的对应关系！
 
+<div id="多位工程师"></div>
 多位工程师
 -----------
-<div id="多位工程师"></div>
 
 在Hares中引入了一种平衡工程师的办法。只有在已经损坏的情况下才能占领建筑物，使攻城狮RUSH变得更加困难。在占领建筑物之前，工程师将会损坏它，直到成功占领。
 
@@ -113,9 +113,9 @@ Firestorm Wall和相应的超级武器现在可以在尤里的复仇中实现。
 > 
 > 编者注：目前通过DTA已支持多人游戏的Multi Engineer选项
 
+<div id="聚光灯/探照灯"></div>
 聚光灯/探照灯
 -----------
-<div id="聚光灯/探照灯"></div>
 
 现在探照灯已经能够正常使用，并且更强大。
 
@@ -147,8 +147,8 @@ Firestorm Wall和相应的超级武器现在可以在尤里的复仇中实现。
 
 黑灯
 
+<div id="窃车贼"></div>
 窃车贼
 ------
-<div id="窃车贼"></div>
 
 Hares能够在不使用`Thief=yes`等语句的情况下允许窃车逻辑，具体参考[劫车犯](http://www.baidu.com)条目。
