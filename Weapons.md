@@ -3,13 +3,13 @@
 Weapons
 ---------
 
-- [[WeaponTypes]注册表](#[WeaponTypes]注册表)
-- [声波武器和喷火武器正常伤害](#声波武器和喷火武器正常伤害)
-- [自定义伊文炸弹](#自定义伊文炸弹)
-- [自定义辐射波](#自定义辐射波)
-- [自定义特斯拉](#自定义特斯拉)
-- [波逻辑](#波逻辑)
-- [粗激光](#粗激光)
+- [WeaponTypes]注册表
+- 声波武器和喷火武器正常伤害
+- 自定义伊文炸弹
+- 自定义辐射波
+- 自定义特斯拉
+- 波逻辑
+- 粗激光
 
 [WeaponTypes]注册表
 ----
@@ -63,6 +63,8 @@ Weapons
     [Weapon]►IvanBomb.Image= (filename, *excluding*the .shp extension)
 
 图像，不要带扩展名（卧槽前面的都要这个怎么又不要了，一帮蛋疼B）。默认`bombcurs.shp`
+
+<div id="FlickerRate"></div>
 
     [Weapon]►IvanBomb.FlickerRate= (integer)
 
