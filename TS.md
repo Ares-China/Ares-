@@ -65,7 +65,7 @@ Hares对原Ares的电磁脉冲有额外的更强大的扩展，详情见[电磁�
 
 Firestorm Wall和相应的超级武器现在可以在尤里的复仇中实现。
 
-详情请查阅[[超级武器]](http://www.baidu.com "超级武器")目录下[[火风暴]](http://www.baidu.com "火风暴")相关词条
+详情请查阅[[超级武器]](./Super%20Weapons)目录下[[火风暴]](./Super%20Weapons#火风暴)相关词条
 
 <div id="激光围栏"></div>
 
@@ -107,7 +107,7 @@ Firestorm Wall和相应的超级武器现在可以在尤里的复仇中实现。
 
 > 使用合理的默认值。通常，`EngineerDamage`不应该高于`EngineerCaptureLevel`或者可能存在工程师炸毁要捕获的建筑物的情况。
 
-请参阅[Multi Engineer Checkbox](http://www.baidu.com)以使用户能够从游戏菜单中打开和关闭Multi Engineer选项。如果未启用该复选框，游戏将强制执行中定义的设置`rulesmd.ini`。
+请参阅[Multi Engineer Checkbox](./TS#启用多位工程师勾选框)以使用户能够从游戏菜单中打开和关闭Multi Engineer选项。如果未启用该复选框，游戏将强制执行中定义的设置`rulesmd.ini`。
 
 ![UI-多位工程师](https://i.imgur.com/J748yBE.png)
 
@@ -159,4 +159,4 @@ Firestorm Wall和相应的超级武器现在可以在尤里的复仇中实现。
 窃车贼
 ------
 
-Hares能够在不使用`Thief=yes`等语句的情况下允许窃车逻辑，具体参考[劫车犯](http://www.baidu.com)条目。
+Hares能够在不使用`Thief=yes`等语句的情况下允许窃车逻辑，具体参考[劫车犯](./Hijackers)条目。
