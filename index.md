@@ -22,14 +22,14 @@ Hares说明书编写组：Zero Fanker，ChaleB，Xkein，THOmas Sneddon
 - [ares.mix](https://github.com/BML-ChaleB/Hares-Instructions/blob/master/introduction.md#ares.mix)
 ### What’s New and Bug Fixes - BUG修复和更新内容
 ## [Restored Tiberian Sun Logic - 被修复的TS逻辑](https://github.com/BML-ChaleB/Hares-Instructions/blob/master/TS.md)
-- [Action=SellUnit - **等待翻译**](#https://github.com/BML-ChaleB/Hares-Instructions/blob/master/TS.md#Action=SellUnit)
-- [Amphibious Image Changes - 两栖单位水陆切换不同形态](#https://github.com/BML-ChaleB/Hares-Instructions/blob/master/TS.md#两栖单位水陆切换不同形态)
-- [Electromagnetic Pulse (EMP) - 电磁脉冲](#https://github.com/BML-ChaleB/Hares-Instructions/blob/master/TS.md#电磁脉冲（EMP）)
-- [Firestorm Wall - 火风暴](#https://github.com/BML-ChaleB/Hares-Instructions/blob/master/TS.md#火风暴)
-- [Laser Fences - 激光围栏](#https://github.com/BML-ChaleB/Hares-Instructions/blob/master/TS.md#激光围栏)
-- [Multi Engineer - 多位工程师](#https://github.com/BML-ChaleB/Hares-Instructions/blob/master/TS.md#多位工程师)
-- [Spotlights - 聚光/探照灯](#https://github.com/BML-ChaleB/Hares-Instructions/blob/master/TS.md#聚光/探照灯)
-- [Vehicle Thief - 窃车](#https://github.com/BML-ChaleB/Hares-Instructions/blob/master/TS.md#窃车)
+- [Action=SellUnit - **等待翻译**](https://github.com/BML-ChaleB/Hares-Instructions/blob/master/TS.md#Action=SellUnit)
+- [Amphibious Image Changes - 两栖单位水陆切换不同形态](https://github.com/BML-ChaleB/Hares-Instructions/blob/master/TS.md#两栖单位水陆切换不同形态)
+- [Electromagnetic Pulse (EMP) - 电磁脉冲](https://github.com/BML-ChaleB/Hares-Instructions/blob/master/TS.md#电磁脉冲（EMP）)
+- [Firestorm Wall - 火风暴](https://github.com/BML-ChaleB/Hares-Instructions/blob/master/TS.md#火风暴)
+- [Laser Fences - 激光围栏](https://github.com/BML-ChaleB/Hares-Instructions/blob/master/TS.md#激光围栏)
+- [Multi Engineer - 多位工程师](https://github.com/BML-ChaleB/Hares-Instructions/blob/master/TS.md#多位工程师)
+- [Spotlights - 聚光/探照灯](https://github.com/BML-ChaleB/Hares-Instructions/blob/master/TS.md#聚光/探照灯)
+- [Vehicle Thief - 窃车](https://github.com/BML-ChaleB/Hares-Instructions/blob/master/TS.md#窃车)
 ## New & Enhanced In-Game Logic - 新增的逻辑内容
 - 新增护甲以及免疫方案 - Additional ArmorTypes and Verses
 - 飞机损坏尾烟 - Aircraft Smoke
