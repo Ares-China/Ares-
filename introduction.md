@@ -25,7 +25,7 @@ Hares现已支持保存游戏
 
 >[TELE]►SecondaryFireFLH=85,0,130
 
-See [RadBeams And Waves Using The Wrong FLH.](http://www.baidu.com "【还没翻译】")
+See [RadBeams And Waves Using The Wrong FLH.](http://www.baidu.com)
 
 <div id="bombcurs.shp"></div>
 
@@ -35,7 +35,7 @@ See [RadBeams And Waves Using The Wrong FLH.](http://www.baidu.com "【还没翻
 
 如果你不想看到以前没有用过的头骨图像，这个动画需要删除最后一帧。
 
-详见[IvanBomb.FlickerRate.](http://www.baidu.com "IvanBomb.FlickerRate.")
+详见[IvanBomb.FlickerRate.](./Weapons#FlickerRate)
 
 The `bombcurs.shp` animation needs to have its last frame removed if you don’t want to see the previously unused skull image. See IvanBomb.FlickerRate.
 
