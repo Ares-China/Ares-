@@ -129,7 +129,7 @@ Hares说明书编写组：Zero Fanker，ChaleB，Xkein，THOmas Sneddon
    - [波逻辑 - Waves](./Weapons#波逻辑)
    - [粗激光 - LaserThickness](./Weapons#粗激光)
    - [动画关联武器 - ProjectileRange](./Weapons#动画关联武器)
-- [**弹头** - Warheads
+- [**弹头** - Warheads]:./Weapons#
    - [通用特殊效果 - General Settings
    - [溅射范围 - CellSpread Enhancements
    - [铁幕弹头 - Iron Curtain Effect
