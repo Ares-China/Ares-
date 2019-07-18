@@ -13,7 +13,7 @@ Hares说明书编写组：Zero Fanker，ChaleB，Xkein，THOmas Sneddon
 申明：假使本说明书翻译内容与原文若有错误，缺失，重复，使用者因此而造成的问题请自行承担，翻译者无义务对问题负责，档燃，你可以联系现任翻译者指出问题，是否解释由翻译者决定
 
 # **Table of Contents**  目录
-### [Introduction 基本介绍](./Introduction.md "基本介绍")
+### [Introduction 基本介绍](./introduction.md "基本介绍")
 - Known Major Issues - 已知的主要问题
    - Save Games - 保存游戏
 ### [Required Changes For Mods Using Ares - 使用Hares的Mod所需的修改](https://github.com/BML-ChaleB/Hares-Instructions/blob/master/introduction.md)
