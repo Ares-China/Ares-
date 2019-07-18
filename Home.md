@@ -160,38 +160,38 @@ Hares说明书编写组：Zero Fanker，ChaleB，Xkein，THOmas Sneddon
    - [狩猎者](./Super%20Weapons#狩猎者)
    - [空降仓](./Super%20Weapons#空降仓)
    - [电磁脉冲](./Super%20Weapons#电磁脉冲)
-- [**泰伯利亚功能** - Tiberium
-   - [储藏和矿井 - Storage and Silos
-   - [泰伯利亚泄露 - Tiberium Spill
-   - [泰伯利亚治愈 - Tiberium Heal
-   - [泰伯利亚残留 - Tiberium Remains
-   - [泰伯利亚伤害 - Tiberium Damage
-   - [器官兽 - Visceroids
-   - [泰伯利亚爆炸 - Tiberium Explosive
-   - [连锁反应 - Chain Reactions
-- [**其他新增** - Miscellaneous Modding Enhancements
-   - [可拆分的规则文件 - [#include]
-   - [CSF功能增强 - String Table Enhancements
-   - [标签长度 - List Lengths
-   - [MIX载入规则 - MIX Loading Order
-   - [分散音频文件 - Loose Audio Files
-   - [Mouse.sha鼠标指针 - Mouse.sha
-   - [可避免的内部错误(IE) - Avoidable Internal Errors
-- [**用户界面功能** - User Interface Features
-   - [位图截图 - Bitmap Screenshots
-   - [战役列表
-   - [战役载入界面
-   - [命令行参数
-   - [自定义战役按钮
-   - [可定制的玩家颜色
-   - [图形/曲面绘图
-   - [内部错误IE/抓虫
-   - [快捷键（热键）
-   - [载入屏幕
-   - [单人遭遇战
-   - [菜单自定义
-   - [MOD信息
-   - [分辨率
-   - [随机地图生成器
-   - [开发游戏标签
-   - [用户界面颜色
+- [**泰伯利亚功能** - Tiberium](./Tiberium#)
+   - [储藏和矿井 - Storage and Silos](./Tiberium#储藏和矿井)
+   - [泰伯利亚泄露 - Tiberium Spill](./Tiberium#泰伯利亚泄露)
+   - [泰伯利亚治愈 - Tiberium Heal](./Tiberium#泰伯利亚治愈)
+   - [泰伯利亚残留 - Tiberium Remains](./Tiberium#泰伯利亚残留)
+   - [泰伯利亚伤害 - Tiberium Damage](./Tiberium#泰伯利亚伤害)
+   - [器官兽 - Visceroids](./Tiberium#器官兽)
+   - [泰伯利亚爆炸 - Tiberium Explosive](./Tiberium#泰伯利亚爆炸)
+   - [连锁反应 - Chain Reactions](./Tiberium#连锁反应)
+- [**其他新增** - Miscellaneous Modding Enhancements](./Miscellaneous%20Modding%20Enhancements#)
+   - [可拆分的规则文件 - [#include]](./Miscellaneous%20Modding%20Enhancements#可拆分的规则文件)
+   - [CSF功能增强 - String Table Enhancements](./Miscellaneous%20Modding%20Enhancements#CSF功能增强)
+   - [标签长度 - List Lengths](./Miscellaneous%20Modding%20Enhancements#标签长度)
+   - [MIX载入规则 - MIX Loading Order](./Miscellaneous%20Modding%20Enhancements#MIX载入规则)
+   - [分散音频文件 - Loose Audio Files](./Miscellaneous%20Modding%20Enhancements#分散音频文件)
+   - [Mouse.sha鼠标指针 - Mouse.sha](./Miscellaneous%20Modding%20Enhancements#Mouse.sha鼠标指针)
+   - [可避免的内部错误(IE) - Avoidable Internal Errors](./Miscellaneous%20Modding%20Enhancements#可避免的内部错误(IE))
+- [**用户界面功能** - User Interface Features](./User%20Interface%20Features#)
+   - [位图截图 - Bitmap Screenshots](./User%20Interface%20Features#位图截图)
+   - [战役列表](./User%20Interface%20Features#战役列表)
+   - [战役载入界面](./User%20Interface%20Features#战役载入界面)
+   - [命令行参数](./User%20Interface%20Features#命令行参数)
+   - [自定义战役按钮](./User%20Interface%20Features#自定义战役按钮)
+   - [可定制的玩家颜色](./User%20Interface%20Features#可定制的玩家颜色)
+   - [图形/曲面绘图](./User%20Interface%20Features#图形/曲面绘图)
+   - [内部错误IE/抓虫](./User%20Interface%20Features#内部错误IE/抓虫)
+   - [快捷键（热键）](./User%20Interface%20Features#快捷键（热键)
+   - [载入屏幕](./User%20Interface%20Features#载入屏幕)
+   - [单人遭遇战](./User%20Interface%20Features#单人遭遇战)
+   - [菜单自定义](./User%20Interface%20Features#菜单自定义)
+   - [MOD信息](./User%20Interface%20Features#MOD信息)
+   - [分辨率](./User%20Interface%20Features#分辨率)
+   - [随机地图生成器](./User%20Interface%20Features#随机地图生成器)
+   - [开发游戏标签](./User%20Interface%20Features#开发游戏标签)
+   - [用户界面颜色](./User%20Interface%20Features#用户界面颜色)
