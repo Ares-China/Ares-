@@ -21,7 +21,7 @@ Hares说明书编写组：Zero Fanker，ChaleB，Xkein，THOmas Sneddon
 - [bombcurs.shp](./introduction.md#bombcurs.shp)
 - [ares.mix](./introduction.md#ares.mix)
 ### What’s New and Bug Fixes - BUG修复和更新内容
-## [Restored Tiberian Sun Logic - 被修复的TS逻辑](./TS.md)
+## [Restored Tiberian Sun Logic - 被修复的TS逻辑](./TS)
 - [Action=SellUnit - **等待翻译**](./TS.md#Action=SellUnit)
 - [Amphibious Image Changes - 两栖单位水陆切换不同形态](./TS.md#两栖单位水陆切换不同形态)
 - [Electromagnetic Pulse (EMP) - 电磁脉冲](./TS.md#电磁脉冲（EMP）)
