@@ -107,11 +107,13 @@ Firestorm Wall和相应的超级武器现在可以在尤里的复仇中实现。
 
 > 使用合理的默认值。通常，`EngineerDamage`不应该高于`EngineerCaptureLevel`或者可能存在工程师炸毁要捕获的建筑物的情况。
 
-请参阅[Multi Engineer Checkbox](./TS#启用多位工程师勾选框)以使用户能够从游戏菜单中打开和关闭Multi Engineer选项。如果未启用该复选框，游戏将强制执行中定义的设置`rulesmd.ini`。
+请参阅[Multi Engineer Checkbox](#启用多位工程师勾选框)以使用户能够从游戏菜单中打开和关闭Multi Engineer选项。如果未启用该复选框，游戏将强制执行中定义的设置`rulesmd.ini`。
 
 ![UI-多位工程师](https://i.imgur.com/J748yBE.png)
 
     [UISettings]►AllowMultiEngineer= (bool) 
+
+<div id="启用多位工程师勾选框"></div>
 
 启用多位工程师勾选框
 
