@@ -122,14 +122,13 @@ Hares说明书编写组：Zero Fanker，ChaleB，Xkein，THOmas Sneddon
 - [**武器** - Weapons](./Weapons#)
    - [[WeaponTypes]注册表 - [WeaponTypes] Section](./Weapons#[WeaponTypes]注册表)
    - [多面数开火动画 - Anim for Facings](./Weapons#)
-   - [声波武器和喷火武器正常伤害 - Ordinary Damage for IsSonic and UseFireParticles](./Weapons#
-声波武器和喷火武器正常伤害)
+   - [声波武器和喷火武器正常伤害 - Ordinary Damage for IsSonic and UseFireParticles](./Weapons#声波武器和喷火武器正常伤害)
    - [自定义伊文炸弹 - Ivan Bombs](./Weapons#自定义伊文炸弹)
-   - [自定义辐射波 - Radiation Beams](./Weapons#)
-   - [自定义特斯拉 - Electric Bolt Coloring](./Weapons#)
-   - [波逻辑 - Waves](./Weapons#)
-   - [粗极光 - LaserThickness](./Weapons#)
-   - [动画关联武器 - ProjectileRange](./Weapons#)
+   - [自定义辐射波 - Radiation Beams](./Weapons#自定义辐射波)
+   - [自定义特斯拉 - Electric Bolt Coloring](./Weapons#自定义特斯拉)
+   - [波逻辑 - Waves](./Weapons#波逻辑)
+   - [粗激光 - LaserThickness](./Weapons#粗激光)
+   - [动画关联武器 - ProjectileRange](./Weapons#动画关联武器)
 - [**弹头** - Warheads
    - [通用特殊效果 - General Settings
    - [溅射范围 - CellSpread Enhancements
