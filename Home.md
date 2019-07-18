@@ -107,13 +107,13 @@ Hares说明书编写组：Zero Fanker，ChaleB，Xkein，THOmas Sneddon
    - [切换电源 - Toggle Power](./Toggle%20Power#)
    - [建筑微损伤 - Trivial Structure Damage](./Trivial%20Structure%20Damage#)
    - [巷战-战壕 - Urban Combat - Trenches](./Urban%20Combat%20-%20Trenches#)
-- [**隐形相关** - Cloak, Stealth and Sensor Arrays](./Cloak, Stealth and Sensor Arrays)
-   - [通用内容 - General Changes and Updates
-   - [隐形高度 - Cloaking and Units Above Ground
-   - [隐形声音 - Cloak Sounds
-   - [隐形阶段 - Cloaking Stages
-   - [隐形条件控制 - Cloak Depending On State
-   - [反隐形 - Sensor Arrays
+- [**隐形相关** - Cloak, Stealth and Sensor Arrays](./Cloak%2C%20Stealth%20and%20Sensor%20Arrays#)
+   - [通用内容 - General Changes and Updates](./Cloak%2C%20Stealth%20and%20Sensor%20Arrays#)
+   - [隐形高度 - Cloaking and Units Above Ground](./Cloak%2C%20Stealth%20and%20Sensor%20Arrays#)
+   - [隐形声音 - Cloak Sounds](./Cloak%2C%20Stealth%20and%20Sensor%20Arrays#)
+   - [隐形阶段 - Cloaking Stages](./Cloak%2C%20Stealth%20and%20Sensor%20Arrays#)
+   - [隐形条件控制 - Cloak Depending On State](./Cloak%2C%20Stealth%20and%20Sensor%20Arrays#)
+   - [反隐形 - Sensor Arrays](./Cloak%2C%20Stealth%20and%20Sensor%20Arrays#)
 - [**抛射体** - Projectiles
    - [多方向抛射体动画化 - Animations and Rotates=yes
    - [弹道分布 - BallisticScatter
