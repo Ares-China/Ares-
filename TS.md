@@ -53,10 +53,10 @@ Action=SellUnit
 
 <div id="电磁脉冲（EMP）"></div>
 
-[电磁脉冲（EMP）](https://github.com/BML-ChaleB/Hares-Instructions/blob/master/EMP.md)
+电磁脉冲（EMP）
 -------
 
-Hares对原Ares的电磁脉冲有额外的更强大的扩展，详情见[电磁脉冲（EMP）](http://www.baidu.com)页面
+Hares对原Ares的电磁脉冲有额外的更强大的扩展，详情见[电磁脉冲（EMP）](https://github.com/BML-ChaleB/Hares-Instructions/blob/master/EMP.md)页面
 
 <div id="火风暴墙"></div>
 
