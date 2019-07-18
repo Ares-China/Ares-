@@ -47,6 +47,8 @@ Sides & Countries
 
 ---------------------------------------------------------------------
 
+<div id="阵营"></div>
+
 阵营
 ===
 
@@ -217,3 +219,91 @@ Eva文件的设定名，如酥菌的所有都是`Russian`，萌菌的所有都�
     [Side]►GraphicalText.Palette= (filename, *including* the .pal extension)
 
 色盘。默认`GRFXTXT.PAL`
+
+<div id="国家"></div>
+
+国家
+====
+
+**国家全局数值**
+--------
+
+注册表为`[Countries]`
+ 
+复制原版能玩的国家，改名，重注册进国家注册表，此外还有一些新标签
+ 
+ 
+**AI基础建筑**
+ 
+    [Country]►AI.PowerPlants= (list of BuildingTypes)
+AI认为这些东西是电厂
+ 
+ 
+**伞兵**
+ 
+    [Country]►ParaDrop.Types= (list of InfantryTypes and/or VehicleTypes)
+单位注册名表，用于科技机场的伞兵类型，可以填坦克，默认和阵营设定一致，注意，旧的伞兵不支持坦克
+ 
+    [Country]►ParaDrop.Num= (list of integers)
+每个单位的数字列表
+ 
+    [Country]►ParaDrop.Aircraft= (AircraftType)
+飞机类型，和阵营一致
+ 
+    [Country]►Parachute.Anim= (Animation)
+默认的降落伞图像
+ 
+ 
+**其他**
+ 
+    [Country]►VeteranBuildings= (list of BuildingTypes)
+在这个列表里的建筑造出来就是精英级别
+ 
+ 
+**国家界面**
+ 
+    [Country]►File.Flag= (filename, *including* the .pcx extension)
+文件名，包含.pcx扩展名，国旗
+ 
+    [Country]►File.ObserverBackground= (filename, *including* the .pcx or .shp extension)
+观察者模式时右边看到的国家背景，大小121x96，shp用`observer.pal`色盘
+
+    [Country]►File.ObserverFlag= (filename, *including* the .pcx or .shp extension)
+观察者模式时右边看到的国旗
+ 
+    [Country]►File.ObserverFlagAltPalette= (boolean)
+如果是，用`yrii.pal`绘制shp，否则用`observer.pal`
+ 
+    [Country]►File.LoadScreen= (filename, *including* the .shp extension)
+载入界面，包括.shp扩展名，文件名格式是"`filename%s*******.shp`"，%为当前的分辨率，比如800,640
+ 
+    [Country]►File.LoadScreenPAL= (filename, *including* the .pal extension)
+载入色盘，包括扩展名
+ 
+    [Country]►LoadScreenText.Name= (CSF label)
+显示的国家名，Name：开头
+ 
+    [Country]►LoadScreenText.SpecialName= (CSF label)
+特殊单位的名字，如磁能坦克
+ 
+    [Country]►LoadScreenText.Brief= (CSF label)
+特殊单位的说明
+ 
+    [Country]►LoadScreenText.Color= (Color scheme)
+载入文字颜色，注册在`[Colors]`里
+ 
+    [Country]►LoadingTheme= (theme id)
+
+用该国家玩遭遇战时的载入音乐。默认是`LOADING`
+
+    [Country]►MenuText.Status= (CSF label)
+法国能建造巨炮，德国能建造坦克杀手的那一行
+ 
+    [Country]►RandomSelectionWeight= (integer)
+国家随机选中的权重，越大越容易被选中，默认1
+ 
+    [Country]►ListIndex= (integer)
+决定了国家选择表的顺序，如果有重复则按国家注册表顺序决定，负数数值的国家会隐藏。如果不想随机选中，设定`RandomSelectionWeight=0`. 此标签默认100
+ 
+    [Country]►File.Taunt=Taunts\filename
+如“`Taunts\filename%02i.wav`”，会让游戏自动加载filename01到08的东西，对战嘲笑设置，仅对16个国家生效
