@@ -627,6 +627,8 @@ Type=ChronoWarp
 
 -----------------------------
 
+<div id="铁幕和力场护盾"></div>
+
 # 铁幕&力场护盾
 
 **Type=IronCurtain&Type=ForceShield**
