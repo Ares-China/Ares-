@@ -114,8 +114,8 @@ Hares说明书编写组：Zero Fanker，ChaleB，Xkein，THOmas Sneddon
    - [隐形阶段 - Cloaking Stages](./Cloak%2C%20Stealth%20and%20Sensor%20Arrays#)
    - [隐形条件控制 - Cloak Depending On State](./Cloak%2C%20Stealth%20and%20Sensor%20Arrays#)
    - [反隐形 - Sensor Arrays](./Cloak%2C%20Stealth%20and%20Sensor%20Arrays#)
-- [**抛射体** - Projectiles
-   - [多方向抛射体动画化 - Animations and Rotates=yes
+- [**抛射体** - Projectiles]
+   - [多方向抛射体动画化 - Animations and Rotates=yes]
    - [弹道分布 - BallisticScatter
    - [有效追击范围 - Ranged
    - [分裂和空爆 - Splits and Airburst
