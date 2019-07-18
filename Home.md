@@ -143,23 +143,23 @@ Hares说明书编写组：Zero Fanker，ChaleB，Xkein，THOmas Sneddon
 - [**超级武器** - Super Weapons](./Super%20Weapons)
    - [通用设置 - General properties](./Super%20Weapons#通用设置)
    - ====原有====
-   - [闪电风暴
-   - [核弹打击
-   - [心灵支配
-   - [超时空传送
-   - [铁幕&立场护盾
-   - [基因突变
-   - [空降部队
-   - [侦察机
-   - [心灵感测
+   - [闪电风暴](./Super%20Weapons#闪电风暴)
+   - [核弹打击](./Super%20Weapons#核弹打击)
+   - [心灵支配](./Super%20Weapons#心灵支配)
+   - [超时空传送](./Super%20Weapons#超时空传送)
+   - [铁幕&立场护盾](./Super%20Weapons#铁幕&力场护盾)
+   - [基因突变](./Super%20Weapons#基因突变)
+   - [空降部队](./Super%20Weapons#空降部队)
+   - [侦察机](./Super%20Weapons#侦察机)
+   - [心灵感测](./Super%20Weapons#心灵感测)
    - ====新增====
-   - [超声波
-   - [通用弹头
-   - [单位投放
-   - [火风暴
-   - [狩猎者
-   - [空降仓
-   - [电磁脉冲
+   - [超声波](./Super%20Weapons#超声波)
+   - [通用弹头](./Super%20Weapons#通用弹头)
+   - [单位投放](./Super%20Weapons#单位投放)
+   - [火风暴](./Super%20Weapons#火风暴)
+   - [狩猎者](./Super%20Weapons#狩猎者)
+   - [空降仓](./Super%20Weapons#空降仓)
+   - [电磁脉冲](./Super%20Weapons#电磁脉冲)
 - [**泰伯利亚功能** - Tiberium
    - [储藏和矿井 - Storage and Silos
    - [泰伯利亚泄露 - Tiberium Spill
