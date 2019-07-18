@@ -147,7 +147,7 @@ Hares说明书编写组：Zero Fanker，ChaleB，Xkein，THOmas Sneddon
    - [核弹打击](./Super%20Weapons#核弹打击)
    - [心灵支配](./Super%20Weapons#心灵支配)
    - [超时空传送](./Super%20Weapons#超时空传送)
-   - [铁幕&立场护盾](./Super%20Weapons#铁幕和力场护盾)
+   - [铁幕&立场护盾](./Super-Weapons#铁幕和力场护盾)
    - [基因突变](./Super%20Weapons#基因突变)
    - [空降部队](./Super%20Weapons#空降部队)
    - [侦察机](./Super%20Weapons#侦察机)
