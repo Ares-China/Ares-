@@ -129,19 +129,19 @@ Hares说明书编写组：Zero Fanker，ChaleB，Xkein，THOmas Sneddon
    - [波逻辑 - Waves](./Weapons#波逻辑)
    - [粗激光 - LaserThickness](./Weapons#粗激光)
    - [动画关联武器 - ProjectileRange](./Weapons#动画关联武器)
-- [**弹头** - Warheads]:./Weapons#
-   - [通用特殊效果 - General Settings
-   - [溅射范围 - CellSpread Enhancements
-   - [铁幕弹头 - Iron Curtain Effect
-   - [永久心灵控制 - Permanent Mind-Control
-   - [自定义空间武器弹头死亡动画 - Customizable WarpAway
-   - [环状波纹 - Ion Cannon Ripple Effect
-   - [缓冲动画 - PreImpactAnim
-   - [部署步兵受伤百分比和新增死亡动画 - Infantry-related Settings
-   - [狂怒状态的攻击速度 - Berserk Reloading Time Modifier
-   - [不触发死亡武器弹头 - Suppress Death Weapons
-   - [立体爆炸弹头X
-   - [机械与生物弹头X
+- [**弹头** - Warheads](./Weapons#)
+   - [通用特殊效果 - General Settings](./Weapons#General%20Settings)
+   - [溅射范围 - CellSpread Enhancements](./Weapons#CellSpread%20Enhancements)
+   - [铁幕弹头 - Iron Curtain Effect](./Weapons#Iron%20Curtain%20Effect)
+   - [永久心灵控制 - Permanent Mind-Control](./Weapons#Permanent%20Mind-Control)
+   - [自定义空间武器弹头死亡动画 - Customizable WarpAway](./Weapons#Customizable%20WarpAway)
+   - [环状波纹 - Ion Cannon Ripple Effect](./Weapons#Ion%20Cannon%20Ripple%20Effect)
+   - [缓冲动画 - PreImpactAnim](./Weapons#PreImpactAnim)
+   - [部署步兵受伤百分比和新增死亡动画 - Infantry-related Settings](./Weapons#Infantry-related%20Settings)
+   - [狂怒状态的攻击速度 - Berserk Reloading Time Modifier](./Weapons#Berserk%20Reloading%20Time%20Modifier)
+   - [不触发死亡武器弹头 - Suppress Death Weapons](./Weapons#Suppress%20Death%20Weapons)
+   - 立体爆炸弹头X
+   - 机械与生物弹头X
 - [**超级武器** - Super Weapons
    - [通用设置 - General properties
    - ====原有====
