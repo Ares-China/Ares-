@@ -14,8 +14,8 @@ Hares说明书编写组：Zero Fanker，ChaleB，Xkein，THOmas Sneddon
 
 # **Table of Contents**  目录
 ### [Introduction 基本介绍](./introduction#基本介绍)
-- Known Major Issues - 已知的主要问题
-   - Save Games - 保存游戏
+- [Known Major Issues - 已知的主要问题](./introduction#基本介绍#已知主要问题)
+   - [Save Games - 保存游戏](./introduction#基本介绍#保存游戏)
 ### [Required Changes For Mods Using Ares - 使用Hares的Mod所需的修改](./introduction#使用Hares对Mod进行必要的更改)
 - [artmd.ini](./introduction/#artmd.ini)
 - [bombcurs.shp](./introduction#bombcurs.shp)
