@@ -24,6 +24,7 @@ Restored Tiberian Sun Logic
 - [窃车贼](#窃车贼)
 
 <div id="Action=SellUnit"></div>
+
 Action=SellUnit
 ---------------
 
@@ -38,6 +39,7 @@ Action=SellUnit
 >New in version 0.1.
 
 <div id="两栖单位水陆切换不同形态"></div>
+
 两栖单位水陆切换不同形态
 ---------------------
 
@@ -50,12 +52,14 @@ Action=SellUnit
 在水中转换为这个单位的素材，参考武装直升机，只是借用壳子,VXL和SHP格式会自动识别，不存在冲突。
 
 <div id="电磁脉冲（EMP）"></div>
-[电磁脉冲（EMP）](http://www.baidu.com)
+
+[电磁脉冲（EMP）](https://github.com/BML-ChaleB/Hares-Instructions/blob/master/EMP.md)
 -------
 
 Hares对原Ares的电磁脉冲有额外的更强大的扩展，详情见[电磁脉冲（EMP）](http://www.baidu.com)页面
 
 <div id="火风暴墙"></div>
+
 火风暴墙
 ------
 
@@ -64,6 +68,7 @@ Firestorm Wall和相应的超级武器现在可以在尤里的复仇中实现。
 详情请查阅[[超级武器]](http://www.baidu.com "超级武器")目录下[[火风暴]](http://www.baidu.com "火风暴")相关词条
 
 <div id="激光围栏"></div>
+
 激光围栏
 -------
 
@@ -72,6 +77,7 @@ Firestorm Wall和相应的超级武器现在可以在尤里的复仇中实现。
 > 注意：在当前的Hares版本下，激光围栏在同一MOD中只能存在一套节点和激光墙的对应关系！
 
 <div id="多位工程师"></div>
+
 多位工程师
 -----------
 
@@ -114,6 +120,7 @@ Firestorm Wall和相应的超级武器现在可以在尤里的复仇中实现。
 > 编者注：目前通过DTA已支持多人游戏的Multi Engineer选项
 
 <div id="聚光灯/探照灯"></div>
+
 聚光灯/探照灯
 -----------
 
@@ -148,6 +155,7 @@ Firestorm Wall和相应的超级武器现在可以在尤里的复仇中实现。
 黑灯
 
 <div id="窃车贼"></div>
+
 窃车贼
 ------
 
