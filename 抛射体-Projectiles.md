@@ -9,6 +9,8 @@ Projectiles
 
 -------------------------
 
+<div id="多方向抛射体动画化"></div>
+
 多方向抛射体动画化
 -------------
 
@@ -19,6 +21,8 @@ Projectiles
 抛射体每面的动画长度，该抛射体需要`Rotates=yes`。默认1
  
 **注意，不能用0，否则瞬间爆炸。**
+
+<div id="弹道散布"></div>
 
 弹道散布
 ------
@@ -33,6 +37,8 @@ Projectiles
 
 散布最大范围。默认`[CombatDamage]►BallisticScatter`
 
+<div id="有效追击范围"></div>
+
 有效追击范围
 ---------
 
@@ -45,6 +51,8 @@ Projectiles
     [Weapon]►ProjectileRange= (float - cell range)
 
 在引爆前能够飞多远,。默认390格子
+
+<div id="分裂和空爆"></div>
 
 分裂和空爆
 -----------
