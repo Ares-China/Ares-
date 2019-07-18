@@ -130,20 +130,18 @@ Hares说明书编写组：Zero Fanker，ChaleB，Xkein，THOmas Sneddon
    - [粗激光 - LaserThickness](./Weapons#粗激光)
    - [动画关联武器 - ProjectileRange](./Weapons#动画关联武器)
 - [**弹头** - Warheads](./Weapons#)
-   - [通用特殊效果 - General Settings](./Weapons#General%20Settings)
-   - [溅射范围 - CellSpread Enhancements](./Weapons#CellSpread%20Enhancements)
-   - [铁幕弹头 - Iron Curtain Effect](./Weapons#Iron%20Curtain%20Effect)
-   - [永久心灵控制 - Permanent Mind-Control](./Weapons#Permanent%20Mind-Control)
-   - [自定义空间武器弹头死亡动画 - Customizable WarpAway](./Weapons#Customizable%20WarpAway)
-   - [环状波纹 - Ion Cannon Ripple Effect](./Weapons#Ion%20Cannon%20Ripple%20Effect)
-   - [缓冲动画 - PreImpactAnim](./Weapons#PreImpactAnim)
-   - [部署步兵受伤百分比和新增死亡动画 - Infantry-related Settings](./Weapons#Infantry-related%20Settings)
-   - [狂怒状态的攻击速度 - Berserk Reloading Time Modifier](./Weapons#Berserk%20Reloading%20Time%20Modifier)
-   - [不触发死亡武器弹头 - Suppress Death Weapons](./Weapons#Suppress%20Death%20Weapons)
-   - 立体爆炸弹头X
-   - 机械与生物弹头X
-- [**超级武器** - Super Weapons
-   - [通用设置 - General properties
+   - [通用特殊效果 - General Settings](./Weapons#通用设置)
+   - [溅射范围 - CellSpread Enhancements](./Weapons#溅射范围)
+   - [铁幕弹头 - Iron Curtain Effect](./Weapons#铁幕弹头)
+   - [永久心灵控制 - Permanent Mind-Control](./Weapons#永久心灵控制)
+   - [自定义空间武器弹头死亡动画 - Customizable WarpAway](./Weapons#自定义空间武器弹头死亡动画)
+   - [环状波纹 - Ion Cannon Ripple Effect](./Weapons#环状波纹)
+   - [缓冲动画 - PreImpactAnim](./Weapons#缓冲动画)
+   - [部署步兵受伤百分比和新增死亡动画 - Infantry-related Settings](./Weapons#部署步兵受伤百分比和新增死亡动画)
+   - [狂怒状态的攻击速度 - Berserk Reloading Time Modifier](./Weapons#狂怒状态的攻击速度)
+   - [不触发死亡武器弹头 - Suppress Death Weapons](./Weapons#不触发死亡武器弹头)
+- [**超级武器** - Super Weapons](./Super%20Weapons)
+   - [通用设置 - General properties](./Super%20Weapons#通用设置)
    - ====原有====
    - [闪电风暴
    - [核弹打击
