@@ -17,9 +17,9 @@ Hares说明书编写组：Zero Fanker，ChaleB，Xkein，THOmas Sneddon
 - Known Major Issues - 已知的主要问题
    - Save Games - 保存游戏
 ### [Required Changes For Mods Using Ares - 使用Hares的Mod所需的修改](https://github.com/BML-ChaleB/Hares-Instructions/blob/master/introduction.md)
-- [artmd.ini](https://github.com/BML-ChaleB/Hares-Instructions/blob/master/introduction.md/ #artmd.ini)
-- [bombcurs.shp](https://github.com/BML-ChaleB/Hares-Instructions/blob/master/introduction.md #bombcurs.shp)
-- [ares.mix](https://github.com/BML-ChaleB/Hares-Instructions/blob/master/introduction.md #ares.mix)
+- [artmd.ini](https://github.com/BML-ChaleB/Hares-Instructions/blob/master/introduction.md/#artmd.ini)
+- [bombcurs.shp](https://github.com/BML-ChaleB/Hares-Instructions/blob/master/introduction.md#bombcurs.shp)
+- [ares.mix](https://github.com/BML-ChaleB/Hares-Instructions/blob/master/introduction.md#ares.mix)
 ### What’s New and Bug Fixes - BUG修复和更新内容
 ## [Restored Tiberian Sun Logic - 被修复的TS逻辑](https://github.com/BML-ChaleB/Hares-Instructions/blob/master/TS.md)
 - Action=SellUnit - **等待翻译**
