@@ -107,7 +107,7 @@ Hares说明书编写组：Zero Fanker，ChaleB，Xkein，THOmas Sneddon
    - [切换电源 - Toggle Power](./Toggle%20Power#)
    - [建筑微损伤 - Trivial Structure Damage](./Trivial%20Structure%20Damage#)
    - [巷战-战壕 - Urban Combat - Trenches](./Urban%20Combat%20-%20Trenches#)
-- [**隐形相关** - Cloak, Stealth and Sensor Arrays
+- [**隐形相关** - Cloak, Stealth and Sensor Arrays](Cloak, Stealth and Sensor Arrays)
    - [通用内容 - General Changes and Updates
    - [隐形高度 - Cloaking and Units Above Ground
    - [隐形声音 - Cloak Sounds
