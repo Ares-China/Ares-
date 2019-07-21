@@ -7,7 +7,7 @@ Restored Tiberian Sun Logic
 
 ### 目录
 
-- [Action=SellUnit](#Action=SellUni)
+- [使用Action=SellUnit](#使用Action_SellUnit)
 - [两栖单位水陆切换不同形态](#两栖单位水陆切换不同形态)
 - [电磁脉冲](#电磁脉冲（EMP）)
    - 定义EMP武器
@@ -23,7 +23,7 @@ Restored Tiberian Sun Logic
 - [聚光灯/探照灯](#聚光灯/探照灯])
 - [窃车贼](#窃车贼)
 
-<div id="使用Action=SellUnit"></div>
+<div id="使用Action_SellUnit"></div>
 
 使用Action=SellUnit
 ---------------
