@@ -8,7 +8,7 @@ HARES平台由Zero Fanker及其HARES工作组制作
 
 本说明书内容Ares部分，内容根据Ares原文以及原Ares0.9rc1中文版说明书进行翻译重校，Ares0.9rc1中文版说明书由MK，十進制，一插一翻译。
 
-Hares说明书编写组：Zero Fanker，ChaleB，Xkein，THOmas Sneddon
+Hares说明书编写组：Zero Fanker，ChaleB，十进制，Xkein，THOmas Sneddon
 
 申明：假使本说明书翻译内容与原文若有错误，缺失，重复，使用者因此而造成的问题请自行承担，翻译者无义务对问题负责，档燃，你可以联系现任翻译者指出问题，是否解释由翻译者决定
 
