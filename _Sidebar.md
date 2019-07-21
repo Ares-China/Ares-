@@ -1,4 +1,4 @@
-# **Table of Contents**  目录
+# [**Table of Contents**  **目录**](./Home)
 ### [Introduction 基本介绍](./introduction#基本介绍)
 - [Known Major Issues - 已知的主要问题](./introduction#基本介绍#已知主要问题)
    - [Save Games - 保存游戏](./introduction#基本介绍#保存游戏)
