@@ -8,7 +8,7 @@
 - [ares.mix](./introduction#ares.mix)
 ### What’s New and Bug Fixes - BUG修复和更新内容
 ## [Restored Tiberian Sun Logic - 被修复的TS逻辑](./TS)
-- [Action=SellUnit - **等待翻译**](./TS#Action=SellUnit)
+- [Action=SellUnit - 使用Action=SellUnit](./TS#使用Action=SellUnit)
 - [Amphibious Image Changes - 两栖单位水陆切换不同形态](./TS#两栖单位水陆切换不同形态)
 - [Electromagnetic Pulse (EMP) - 电磁脉冲](./TS#电磁脉冲（EMP）)
 - [Firestorm Wall - 火风暴](./TS#火风暴)
