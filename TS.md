@@ -23,9 +23,9 @@ Restored Tiberian Sun Logic
 - [聚光灯/探照灯](#聚光灯/探照灯])
 - [窃车贼](#窃车贼)
 
-<div id="Action=SellUnit"></div>
+<div id="使用Action=SellUnit"></div>
 
-Action=SellUnit
+使用Action=SellUnit
 ---------------
 
 #### *缺少翻译校对*
