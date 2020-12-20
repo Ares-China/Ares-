@@ -1,8 +1,8 @@
 Introduction - 基本介绍
 ============
-Hares是扩展Yuri Revenge功能的新工具.....
+Ares是扩展Yuri Revenge功能的新工具.....
 
-【关于Hares的介绍】
+【关于Ares的介绍】
 
 兼容性说明
 ---------
@@ -11,12 +11,12 @@ Hares是扩展Yuri Revenge功能的新工具.....
 已知主要问题
 ----------
 ### 保存游戏
-Hares现已支持保存游戏
->Hares保存游戏是否会影响光照？【存疑】
+Ares现已支持保存游戏
+>Ares保存游戏是否会影响光照？【存疑】
 
-<div id="使用Hares对Mod进行必要的更改"></div>
+<div id="使用Ares对Mod进行必要的更改"></div>
 
-使用Hares对Mod进行必要的更改
+使用Ares对Mod进行必要的更改
 --------------------------
 
 <div id="artmd.ini"></div>
